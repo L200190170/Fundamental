@@ -1,0 +1,14 @@
+C:\Users\Selvianisa\source\repos\Tugas2\Tugas2\bin\Debug\netcoreapp3.1\Tugas2.exe
+C:\Users\Selvianisa\source\repos\Tugas2\Tugas2\bin\Debug\netcoreapp3.1\Tugas2.deps.json
+C:\Users\Selvianisa\source\repos\Tugas2\Tugas2\bin\Debug\netcoreapp3.1\Tugas2.runtimeconfig.json
+C:\Users\Selvianisa\source\repos\Tugas2\Tugas2\bin\Debug\netcoreapp3.1\Tugas2.runtimeconfig.dev.json
+C:\Users\Selvianisa\source\repos\Tugas2\Tugas2\bin\Debug\netcoreapp3.1\Tugas2.dll
+C:\Users\Selvianisa\source\repos\Tugas2\Tugas2\bin\Debug\netcoreapp3.1\Tugas2.pdb
+C:\Users\Selvianisa\source\repos\Tugas2\Tugas2\obj\Debug\netcoreapp3.1\Tugas2.csproj.AssemblyReference.cache
+C:\Users\Selvianisa\source\repos\Tugas2\Tugas2\obj\Debug\netcoreapp3.1\Tugas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Selvianisa\source\repos\Tugas2\Tugas2\obj\Debug\netcoreapp3.1\Tugas2.AssemblyInfoInputs.cache
+C:\Users\Selvianisa\source\repos\Tugas2\Tugas2\obj\Debug\netcoreapp3.1\Tugas2.AssemblyInfo.cs
+C:\Users\Selvianisa\source\repos\Tugas2\Tugas2\obj\Debug\netcoreapp3.1\Tugas2.csproj.CoreCompileInputs.cache
+C:\Users\Selvianisa\source\repos\Tugas2\Tugas2\obj\Debug\netcoreapp3.1\Tugas2.dll
+C:\Users\Selvianisa\source\repos\Tugas2\Tugas2\obj\Debug\netcoreapp3.1\Tugas2.pdb
+C:\Users\Selvianisa\source\repos\Tugas2\Tugas2\obj\Debug\netcoreapp3.1\Tugas2.genruntimeconfig.cache
